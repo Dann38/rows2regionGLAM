@@ -1,0 +1,78 @@
+2025-11-01 18:23:02.821011
+DATASET INFO:
+count row: 1000
+first: dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
+	 A:torch.Size([77, 77])
+	 nodes_feature:torch.Size([77, 15])
+	 edges_feature:torch.Size([75, 4])
+	 true_edges:torch.Size([75])
+end:dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
+	 A:torch.Size([111, 111])
+	 nodes_feature:torch.Size([111, 15])
+	 edges_feature:torch.Size([109, 4])
+	 true_edges:torch.Size([109])
+
+node_featch:	15
+edge_featch:	4
+epochs:	20
+batch_size:	50
+learning_rate:	0.05
+Tag:	[{'in': -1, 'size': 64, 'out': 64, 'k': 3}, {'in': 64, 'size': 32, 'out': 32, 'k': 2}, {'in': 32, 'size': 16, 'out': 16, 'k': 1}]
+NodeLinear:	[-1, 32, 16]
+EdgeLinear:	[32, 16, 8]
+batchNormNode:	True
+batchNormEdge:	True
+seg_k:	0.5
+loss_params:	{'edge_imbalance': 6.31, 'edge_coef': 1}
+sigmoidEdge:	False
+EPOCH #0	 0.91616816 (VAL: 0.65704278)
+EPOCH #1	 0.66276113 (VAL: 0.60662838)
+EPOCH #2	 0.56677723 (VAL: 0.57255385)
+2025-11-01 18:23:29.830715
+DATASET INFO:
+count row: 1000
+first: dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
+	 A:torch.Size([77, 77])
+	 nodes_feature:torch.Size([77, 15])
+	 edges_feature:torch.Size([75, 4])
+	 true_edges:torch.Size([75])
+end:dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
+	 A:torch.Size([111, 111])
+	 nodes_feature:torch.Size([111, 15])
+	 edges_feature:torch.Size([109, 4])
+	 true_edges:torch.Size([109])
+
+node_featch:	15
+edge_featch:	4
+epochs:	20
+batch_size:	50
+learning_rate:	0.05
+Tag:	[{'in': 15, 'size': 64, 'out': 64, 'k': 3}, {'in': 64, 'size': 32, 'out': 32, 'k': 2}, {'in': 32, 'size': 16, 'out': 16, 'k': 1}]
+NodeLinear:	[31, 32, 16]
+EdgeLinear:	[32, 16, 8]
+batchNormNode:	True
+batchNormEdge:	True
+seg_k:	0.5
+loss_params:	{'edge_imbalance': 6.31, 'edge_coef': 1}
+sigmoidEdge:	False
+EPOCH #0	 0.89930853 (VAL: 1.04379140)
+EPOCH #1	 0.71307216 (VAL: 0.95212824)
+EPOCH #2	 0.63075209 (VAL: 0.76650271)
+EPOCH #3	 0.55926367 (VAL: 0.78225442)
+EPOCH #4	 0.54013166 (VAL: 0.80899105)
+EPOCH #5	 0.53049439 (VAL: 0.82070882)
+EPOCH #6	 0.51653948 (VAL: 0.78992699)
+EPOCH #7	 0.50155822 (VAL: 0.78324120)
+EPOCH #8	 0.48950914 (VAL: 0.76563191)
+EPOCH #9	 0.47960113 (VAL: 0.84027926)
+EPOCH #10	 0.47618938 (VAL: 0.91464515)
+EPOCH #11	 0.48205191 (VAL: 0.89934213)
+EPOCH #12	 0.48559562 (VAL: 0.93213015)
+EPOCH #13	 0.47241763 (VAL: 0.92257667)
+EPOCH #14	 0.46224564 (VAL: 0.88452625)
+EPOCH #15	 0.45917079 (VAL: 0.94312250)
+EPOCH #16	 0.45385279 (VAL: 1.09788627)
+EPOCH #17	 0.45529320 (VAL: 1.10042459)
+EPOCH #18	 0.46528025 (VAL: 1.11369409)
+EPOCH #19	 0.48278855 (VAL: 0.89064200)
+Время обучения: 55.55 сек
