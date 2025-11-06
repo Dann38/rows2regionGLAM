@@ -1,174 +1,759 @@
-2025-11-01 18:23:02.821011
+JSON ERROR FILES:
+PMC1779576_00003.pdf.json
+PMC2064968_00011.pdf.json
+PMC2242789_00010.pdf.json
+PMC2262088_00009.pdf.json
+PMC2409173_00001.pdf.json
+PMC2464819_00003.pdf.json
+PMC2532955_00002.pdf.json
+PMC2557073_00018.pdf.json
+PMC2564839_00002.pdf.json
+PMC2569211_00001.pdf.json
+PMC2602740_00001.pdf.json
+PMC2602740_00009.pdf.json
+PMC2607135_00002.pdf.json
+PMC2607135_00004.pdf.json
+PMC2614465_00004.pdf.json
+PMC2654103_00004.pdf.json
+PMC2678976_00008.pdf.json
+PMC2680652_00011.pdf.json
+PMC2680652_00012.pdf.json
+PMC2761780_00006.pdf.json
+PMC2761780_00008.pdf.json
+PMC2778071_00001.pdf.json
+PMC2793901_00008.pdf.json
+PMC2841070_00006.pdf.json
+PMC2885667_00002.pdf.json
+PMC2886948_00006.pdf.json
+PMC2896727_00002.pdf.json
+PMC2955962_00001.pdf.json
+PMC3016603_00001.pdf.json
+PMC3018133_00009.pdf.json
+PMC3042967_00007.pdf.json
+PMC3071326_00005.pdf.json
+PMC3077926_00023.pdf.json
+PMC3095178_00037.pdf.json
+PMC3113731_00004.pdf.json
+PMC3116192_00004.pdf.json
+PMC3121964_00023.pdf.json
+PMC3130997_00003.pdf.json
+PMC3141734_00008.pdf.json
+PMC3167468_00021.pdf.json
+PMC3167885_00002.pdf.json
+PMC3185517_00011.pdf.json
+PMC3187693_00001.pdf.json
+PMC3208740_00020.pdf.json
+PMC3212911_00001.pdf.json
+PMC3212920_00005.pdf.json
+PMC3231198_00002.pdf.json
+PMC3236360_00005.pdf.json
+PMC3240815_00008.pdf.json
+PMC3250999_00004.pdf.json
+PMC3250999_00010.pdf.json
+PMC3251002_00016.pdf.json
+PMC3255516_00006.pdf.json
+PMC3262506_00002.pdf.json
+PMC3267053_00003.pdf.json
+PMC3267163_00001.pdf.json
+PMC3270462_00002.pdf.json
+PMC3272344_00002.pdf.json
+PMC3275898_00005.pdf.json
+PMC3280572_00002.pdf.json
+PMC3290773_00006.pdf.json
+PMC3314404_00003.pdf.json
+PMC3336206_00003.pdf.json
+PMC3337065_00003.pdf.json
+PMC3350249_00002.pdf.json
+PMC3351714_00005.pdf.json
+PMC3352085_00003.pdf.json
+PMC3352280_00003.pdf.json
+PMC3357892_00001.pdf.json
+PMC3389695_00005.pdf.json
+PMC3399636_00002.pdf.json
+PMC3407917_00001.pdf.json
+PMC3407917_00003.pdf.json
+PMC3409360_00024.pdf.json
+PMC3423653_00003.pdf.json
+PMC3431085_00003.pdf.json
+PMC3433177_00002.pdf.json
+PMC3446758_00007.pdf.json
+PMC3448083_00008.pdf.json
+PMC3448515_00006.pdf.json
+PMC3471043_00005.pdf.json
+PMC3498729_00013.pdf.json
+PMC3518970_00018.pdf.json
+PMC3522376_00004.pdf.json
+PMC3533508_00003.pdf.json
+PMC3535160_00001.pdf.json
+PMC3536013_00007.pdf.json
+PMC3540690_00005.pdf.json
+PMC3558797_00000.pdf.json
+PMC3560059_00003.pdf.json
+PMC3564380_00007.pdf.json
+PMC3564735_00002.pdf.json
+PMC3566634_00010.pdf.json
+PMC3570924_00008.pdf.json
+PMC3570927_00003.pdf.json
+PMC3573674_00004.pdf.json
+PMC3583719_00003.pdf.json
+PMC3594706_00005.pdf.json
+PMC3612492_00002.pdf.json
+PMC3614288_00001.pdf.json
+PMC3615605_00002.pdf.json
+PMC3621295_00004.pdf.json
+PMC3630327_00008.pdf.json
+PMC3640396_00018.pdf.json
+PMC3644823_00008.pdf.json
+PMC3652151_00002.pdf.json
+PMC3654279_00024.pdf.json
+PMC3655458_00003.pdf.json
+PMC3656400_00004.pdf.json
+PMC3658417_00003.pdf.json
+PMC3658417_00009.pdf.json
+PMC3671435_00002.pdf.json
+PMC3677643_00001.pdf.json
+PMC3678786_00005.pdf.json
+PMC3683472_00001.pdf.json
+PMC3692069_00001.pdf.json
+PMC3693180_00001.pdf.json
+PMC3694302_00003.pdf.json
+PMC3705266_00001.pdf.json
+PMC3710630_00003.pdf.json
+PMC3710642_00001.pdf.json
+PMC3721656_00003.pdf.json
+PMC3723241_00002.pdf.json
+PMC3725901_00001.pdf.json
+PMC3730176_00003.pdf.json
+PMC3732636_00001.pdf.json
+PMC3742286_00007.pdf.json
+PMC3749610_00001.pdf.json
+PMC3752937_00004.pdf.json
+PMC3756403_00009.pdf.json
+PMC3770062_00001.pdf.json
+PMC3771406_00001.pdf.json
+PMC3772201_00001.pdf.json
+PMC3775565_00002.pdf.json
+PMC3786533_00005.pdf.json
+PMC3786533_00006.pdf.json
+PMC3799519_00002.pdf.json
+PMC3821892_00006.pdf.json
+PMC3833195_00001.pdf.json
+PMC3844200_00002.pdf.json
+PMC3856065_00007.pdf.json
+PMC3856148_00001.pdf.json
+PMC3857716_00002.pdf.json
+PMC3857840_00002.pdf.json
+PMC3862255_00010.pdf.json
+PMC3868196_00002.pdf.json
+PMC3870107_00001.pdf.json
+PMC3878760_00002.pdf.json
+PMC3901100_00005.pdf.json
+PMC3901235_00018.pdf.json
+PMC3915518_00002.pdf.json
+PMC3915661_00002.pdf.json
+PMC3916197_00001.pdf.json
+PMC3928864_00002.pdf.json
+PMC3949622_00027.pdf.json
+PMC3961125_00001.pdf.json
+PMC3965944_00001.pdf.json
+PMC3967143_00001.pdf.json
+PMC3975365_00003.pdf.json
+PMC3976786_00001.pdf.json
+PMC3976795_00001.pdf.json
+PMC3977455_00001.pdf.json
+PMC3981474_00005.pdf.json
+PMC3990205_00001.pdf.json
+PMC3996305_00001.pdf.json
+PMC3997261_00015.pdf.json
+PMC3997998_00003.pdf.json
+PMC3998745_00004.pdf.json
+PMC4003829_00001.pdf.json
+PMC4004112_00001.pdf.json
+PMC4004345_00017.pdf.json
+PMC4006566_00002.pdf.json
+PMC4007035_00005.pdf.json
+PMC4008350_00001.pdf.json
+PMC4008520_00001.pdf.json
+PMC4008520_00003.pdf.json
+PMC4010295_00010.pdf.json
+PMC4014721_00013.pdf.json
+PMC4016755_00001.pdf.json
+PMC4021696_00003.pdf.json
+PMC4021833_00001.pdf.json
+PMC4021884_00007.pdf.json
+PMC4021896_00007.pdf.json
+PMC4034724_00001.pdf.json
+PMC4036540_00020.pdf.json
+PMC4040189_00001.pdf.json
+PMC4045299_00010.pdf.json
+PMC4045363_00001.pdf.json
+PMC4045395_00011.pdf.json
+PMC4045509_00001.pdf.json
+PMC4045510_00002.pdf.json
+PMC4045530_00004.pdf.json
+PMC4045530_00005.pdf.json
+PMC4045537_00003.pdf.json
+PMC4055113_00009.pdf.json
+PMC4058186_00004.pdf.json
+PMC4060870_00018.pdf.json
+PMC4062848_00004.pdf.json
+PMC4063216_00025.pdf.json
+PMC4064043_00012.pdf.json
+PMC4078442_00007.pdf.json
+PMC4078517_00009.pdf.json
+PMC4092869_00008.pdf.json
+PMC4094842_00004.pdf.json
+PMC4095949_00001.pdf.json
+PMC4104206_00026.pdf.json
+PMC4105319_00003.pdf.json
+PMC4114068_00004.pdf.json
+PMC4114626_00001.pdf.json
+PMC4117275_00001.pdf.json
+PMC4121410_00013.pdf.json
+PMC4158465_00004.pdf.json
+PMC4167459_00004.pdf.json
+PMC4168242_00005.pdf.json
+PMC4168242_00006.pdf.json
+PMC4181384_00014.pdf.json
+PMC4187152_00010.pdf.json
+PMC4187152_00024.pdf.json
+PMC4187152_00029.pdf.json
+PMC4187165_00007.pdf.json
+PMC4189528_00001.pdf.json
+PMC4192860_00011.pdf.json
+PMC4198918_00001.pdf.json
+PMC4200581_00006.pdf.json
+PMC4205487_00003.pdf.json
+PMC4205490_00006.pdf.json
+PMC4207459_00004.pdf.json
+PMC4207586_00001.pdf.json
+PMC4207593_00001.pdf.json
+PMC4208387_00001.pdf.json
+PMC4222738_00002.pdf.json
+PMC4226420_00002.pdf.json
+PMC4229507_00003.pdf.json
+PMC4234060_00015.pdf.json
+PMC4240299_00012.pdf.json
+PMC4247736_00006.pdf.json
+PMC4251404_00001.pdf.json
+PMC4262001_00005.pdf.json
+PMC4267256_00012.pdf.json
+PMC4273511_00002.pdf.json
+PMC4276697_00001.pdf.json
+PMC4279630_00002.pdf.json
+PMC4296343_00007.pdf.json
+PMC4299508_00007.pdf.json
+PMC4299853_00004.pdf.json
+PMC4305467_00001.pdf.json
+PMC4306957_00008.pdf.json
+PMC4307199_00006.pdf.json
+PMC4312482_00001.pdf.json
+PMC4337476_00003.pdf.json
+PMC4338523_00033.pdf.json
+PMC4348594_00001.pdf.json
+PMC4353307_00004.pdf.json
+PMC4357135_00006.pdf.json
+PMC4359823_00009.pdf.json
+PMC4373757_00008.pdf.json
+PMC4384009_00002.pdf.json
+PMC4384100_00003.pdf.json
+PMC4385976_00002.pdf.json
+PMC4385977_00005.pdf.json
+PMC4391289_00008.pdf.json
+PMC4391689_00001.pdf.json
+PMC4393070_00001.pdf.json
+PMC4396436_00002.pdf.json
+PMC4402198_00002.pdf.json
+PMC4402933_00017.pdf.json
+PMC4415114_00006.pdf.json
+PMC4419469_00010.pdf.json
+PMC4421031_00003.pdf.json
+PMC4430714_00001.pdf.json
+PMC4437382_00001.pdf.json
+PMC4438100_00003.pdf.json
+PMC4440625_00002.pdf.json
+PMC4444227_00021.pdf.json
+PMC4445244_00002.pdf.json
+PMC4446834_00003.pdf.json
+PMC4453621_00006.pdf.json
+PMC4454341_00011.pdf.json
+PMC4456148_00001.pdf.json
+PMC4464412_00009.pdf.json
+PMC4470183_00005.pdf.json
+PMC4470206_00001.pdf.json
+PMC4475709_00003.pdf.json
+PMC4480821_00006.pdf.json
+PMC4485502_00001.pdf.json
+PMC4493465_00012.pdf.json
+PMC4493510_00003.pdf.json
+PMC4493510_00005.pdf.json
+PMC4494245_00005.pdf.json
+PMC4494407_00004.pdf.json
+PMC4496820_00028.pdf.json
+PMC4499404_00001.pdf.json
+PMC4501371_00011.pdf.json
+PMC4501830_00001.pdf.json
+PMC4503852_00004.pdf.json
+PMC4503852_00006.pdf.json
+PMC4509708_00002.pdf.json
+PMC4510439_00004.pdf.json
+PMC4513215_00004.pdf.json
+PMC4514820_00014.pdf.json
+PMC4523278_00016.pdf.json
+PMC4529953_00001.pdf.json
+PMC4531072_00008.pdf.json
+PMC4531475_00011.pdf.json
+PMC4533707_00009.pdf.json
+PMC4535489_00002.pdf.json
+PMC4536946_00002.pdf.json
+PMC4547520_00001.pdf.json
+PMC4553322_00010.pdf.json
+PMC4553478_00002.pdf.json
+PMC4553529_00005.pdf.json
+PMC4553628_00003.pdf.json
+PMC4557013_00018.pdf.json
+PMC4567572_00006.pdf.json
+PMC4576198_00008.pdf.json
+PMC4582835_00009.pdf.json
+PMC4583693_00002.pdf.json
+PMC4584331_00022.pdf.json
+PMC4586472_00006.pdf.json
+PMC4590835_00004.pdf.json
+PMC4593338_00006.pdf.json
+PMC4602334_00002.pdf.json
+PMC4606164_00002.pdf.json
+PMC4607918_00007.pdf.json
+PMC4610108_00025.pdf.json
+PMC4629592_00001.pdf.json
+PMC4629792_00006.pdf.json
+PMC4632981_00046.pdf.json
+PMC4633921_00005.pdf.json
+PMC4638190_00004.pdf.json
+PMC4639831_00004.pdf.json
+PMC4645746_00035.pdf.json
+PMC4650281_00001.pdf.json
+PMC4660894_00002.pdf.json
+PMC4670012_00002.pdf.json
+PMC4670630_00002.pdf.json
+PMC4670644_00001.pdf.json
+PMC4670879_00002.pdf.json
+PMC4672283_00007.pdf.json
+PMC4673565_00007.pdf.json
+PMC4673578_00001.pdf.json
+PMC4685509_00007.pdf.json
+PMC4685593_00007.pdf.json
+PMC4690407_00007.pdf.json
+PMC4690516_00006.pdf.json
+PMC4693202_00015.pdf.json
+PMC4693225_00005.pdf.json
+PMC4697142_00005.pdf.json
+PMC4698527_00001.pdf.json
+PMC4700085_00006.pdf.json
+PMC4701021_00012.pdf.json
+PMC4702215_00004.pdf.json
+PMC4702783_00005.pdf.json
+PMC4703143_00002.pdf.json
+PMC4710952_00006.pdf.json
+PMC4714625_00006.pdf.json
+PMC4717531_00009.pdf.json
+PMC4718929_00003.pdf.json
+PMC4721558_00006.pdf.json
+PMC4745531_00001.pdf.json
+PMC4748748_00010.pdf.json
+PMC4755534_00010.pdf.json
+PMC4764020_00001.pdf.json
+PMC4765262_00001.pdf.json
+PMC4765290_00005.pdf.json
+PMC4784724_00009.pdf.json
+PMC4786597_00006.pdf.json
+PMC4788615_00003.pdf.json
+PMC4789493_00024.pdf.json
+PMC4795482_00034.pdf.json
+PMC4799709_00001.pdf.json
+PMC4799814_00001.pdf.json
+PMC4799825_00001.pdf.json
+PMC4800081_00002.pdf.json
+PMC4808672_00001.pdf.json
+PMC4811345_00005.pdf.json
+PMC4814697_00001.pdf.json
+PMC4824243_00013.pdf.json
+PMC4830501_00017.pdf.json
+PMC4832311_00009.pdf.json
+PMC4835512_00006.pdf.json
+PMC4843950_00006.pdf.json
+PMC4848179_00016.pdf.json
+PMC4854210_00001.pdf.json
+PMC4855992_00005.pdf.json
+PMC4856725_00009.pdf.json
+PMC4858560_00001.pdf.json
+PMC4858560_00004.pdf.json
+PMC4863097_00004.pdf.json
+PMC4867781_00003.pdf.json
+PMC4874821_00011.pdf.json
+PMC4876522_00002.pdf.json
+PMC4879509_00007.pdf.json
+PMC4888412_00008.pdf.json
+PMC4890920_00006.pdf.json
+PMC4893409_00005.pdf.json
+PMC4893409_00009.pdf.json
+PMC4899053_00001.pdf.json
+PMC4899831_00007.pdf.json
+PMC4904155_00002.pdf.json
+PMC4904516_00001.pdf.json
+PMC4904545_00005.pdf.json
+PMC4913055_00002.pdf.json
+PMC4928746_00017.pdf.json
+PMC4931292_00011.pdf.json
+PMC4931754_00008.pdf.json
+PMC4934643_00007.pdf.json
+PMC4936378_00004.pdf.json
+PMC4936439_00005.pdf.json
+PMC4939562_00004.pdf.json
+PMC4940574_00004.pdf.json
+PMC4942728_00006.pdf.json
+PMC4944109_00000.pdf.json
+PMC4949521_00004.pdf.json
+PMC4950756_00005.pdf.json
+PMC4959036_00005.pdf.json
+PMC4975376_00014.pdf.json
+PMC4978773_00012.pdf.json
+PMC4987583_00002.pdf.json
+PMC4994725_00004.pdf.json
+PMC5001192_00014.pdf.json
+PMC5003443_00003.pdf.json
+PMC5003443_00004.pdf.json
+PMC5003455_00004.pdf.json
+PMC5006855_00005.pdf.json
+PMC5011625_00003.pdf.json
+PMC5015594_00002.pdf.json
+PMC5021890_00003.pdf.json
+PMC5029493_00007.pdf.json
+PMC5036226_00016.pdf.json
+PMC5037243_00008.pdf.json
+PMC5037863_00001.pdf.json
+PMC5042152_00020.pdf.json
+PMC5055579_00003.pdf.json
+PMC5067320_00006.pdf.json
+PMC5067799_00007.pdf.json
+PMC5069321_00004.pdf.json
+PMC5075586_00001.pdf.json
+PMC5076019_00006.pdf.json
+PMC5080665_00003.pdf.json
+PMC5080974_00009.pdf.json
+PMC5081160_00003.pdf.json
+PMC5084800_00001.pdf.json
+PMC5088316_00001.pdf.json
+PMC5088456_00003.pdf.json
+PMC5094800_00005.pdf.json
+PMC5106496_00010.pdf.json
+PMC5111791_00006.pdf.json
+PMC5117184_00022.pdf.json
+PMC5119236_00004.pdf.json
+PMC5128703_00001.pdf.json
+PMC5134197_00008.pdf.json
+PMC5142720_00014.pdf.json
+PMC5157207_00054.pdf.json
+PMC5158097_00011.pdf.json
+PMC5161235_00003.pdf.json
+PMC5161235_00008.pdf.json
+PMC5172574_00002.pdf.json
+PMC5178373_00002.pdf.json
+PMC5214405_00006.pdf.json
+PMC5222911_00015.pdf.json
+PMC5228585_00008.pdf.json
+PMC5237723_00001.pdf.json
+PMC5243892_00001.pdf.json
+PMC5259801_00002.pdf.json
+PMC5268339_00017.pdf.json
+PMC5278360_00008.pdf.json
+PMC5282546_00005.pdf.json
+PMC5288236_00011.pdf.json
+PMC5293279_00004.pdf.json
+PMC5294378_00001.pdf.json
+PMC5299180_00005.pdf.json
+PMC5299211_00001.pdf.json
+PMC5309730_00002.pdf.json
+PMC5310369_00013.pdf.json
+PMC5315379_00005.pdf.json
+PMC5324687_00008.pdf.json
+PMC5326498_00004.pdf.json
+PMC5327891_00003.pdf.json
+PMC5327924_00004.pdf.json
+PMC5329937_00004.pdf.json
+PMC5340281_00011.pdf.json
+PMC5347395_00016.pdf.json
+PMC5352769_00003.pdf.json
+PMC5353661_00005.pdf.json
+PMC5367742_00014.pdf.json
+PMC5368208_00006.pdf.json
+PMC5371617_00022.pdf.json
+PMC5374675_00001.pdf.json
+PMC5376423_00002.pdf.json
+PMC5380196_00007.pdf.json
+PMC5390938_00019.pdf.json
+PMC5391904_00003.pdf.json
+PMC5395205_00008.pdf.json
+PMC5396307_00005.pdf.json
+PMC5397114_00034.pdf.json
+PMC5397442_00003.pdf.json
+PMC5399745_00001.pdf.json
+PMC5406897_00005.pdf.json
+PMC5407355_00015.pdf.json
+PMC5416814_00013.pdf.json
+PMC5421555_00016.pdf.json
+PMC5424194_00002.pdf.json
+PMC5426338_00001.pdf.json
+PMC5428074_00009.pdf.json
+PMC5458430_00001.pdf.json
+PMC5470133_00005.pdf.json
+PMC5471606_00004.pdf.json
+PMC5471844_00005.pdf.json
+PMC5477826_00010.pdf.json
+PMC5479070_00012.pdf.json
+PMC5482383_00005.pdf.json
+PMC5486459_00004.pdf.json
+PMC5486842_00007.pdf.json
+PMC5487743_00004.pdf.json
+PMC5488627_00009.pdf.json
+PMC5490618_00008.pdf.json
+PMC5490642_00001.pdf.json
+PMC5522511_00006.pdf.json
+PMC5534195_00003.pdf.json
+PMC5546062_00008.pdf.json
+PMC5548255_00007.pdf.json
+PMC5550551_00012.pdf.json
+PMC5557867_00003.pdf.json
+PMC5558311_00002.pdf.json
+PMC5563349_00012.pdf.json
+PMC5568594_00014.pdf.json
+PMC5568850_00029.pdf.json
+PMC5574425_00006.pdf.json
+PMC5582073_00003.pdf.json
+PMC5584118_00010.pdf.json
+PMC5584275_00002.pdf.json
+PMC5586389_00013.pdf.json
+PMC5588548_00008.pdf.json
+PMC5604894_00021.pdf.json
+PMC5611365_00005.pdf.json
+PMC5616089_00003.pdf.json
+PMC5624308_00018.pdf.json
+PMC5629191_00001.pdf.json
+PMC5629544_00002.pdf.json
+PMC5634396_00006.pdf.json
+PMC5635761_00005.pdf.json
+PMC5635763_00005.pdf.json
+PMC5636851_00012.pdf.json
+PMC5651955_00001.pdf.json
+PMC5653907_00005.pdf.json
+PMC5656212_00008.pdf.json
+PMC5662700_00001.pdf.json
+PMC5662898_00004.pdf.json
+PMC5663256_00003.pdf.json
+PMC5664332_00005.pdf.json
+PMC5664371_00003.pdf.json
+PMC5665965_00008.pdf.json
+PMC5672149_00048.pdf.json
+PMC5678271_00006.pdf.json
+PMC5689116_00003.pdf.json
+PMC5689236_00006.pdf.json
+PMC5690295_00005.pdf.json
+PMC5691098_00010.pdf.json
+PMC5700989_00006.pdf.json
+PMC5702263_00022.pdf.json
+PMC5704638_00008.pdf.json
+PMC5709815_00010.pdf.json
+PMC5717425_00001.pdf.json
+PMC5730914_00005.pdf.json
+PMC5735633_00003.pdf.json
+PMC5741310_00002.pdf.json
+PMC5741324_00003.pdf.json
+PMC5743051_00008.pdf.json
+PMC5748960_00002.pdf.json
+PMC5752984_00001.pdf.json
+PMC5756245_00003.pdf.json
+PMC5759921_00003.pdf.json
+PMC5760187_00022.pdf.json
+PMC5763345_00008.pdf.json
+PMC5767557_00003.pdf.json
+PMC5767795_00002.pdf.json
+PMC5767795_00012.pdf.json
+PMC5769855_00024.pdf.json
+PMC5770081_00004.pdf.json
+PMC5770081_00007.pdf.json
+PMC5770902_00003.pdf.json
+PMC5771552_00023.pdf.json
+PMC5780568_00003.pdf.json
+PMC5780679_00002.pdf.json
+PMC5785177_00004.pdf.json
+PMC5788529_00009.pdf.json
+PMC5797842_00014.pdf.json
+PMC5798397_00008.pdf.json
+PMC5798397_00009.pdf.json
+PMC5801398_00018.pdf.json
+PMC5802544_00005.pdf.json
+PMC5804140_00004.pdf.json
+PMC5807469_00007.pdf.json
+PMC5813794_00016.pdf.json
+PMC5814467_00016.pdf.json
+PMC5815384_00002.pdf.json
+PMC5815501_00017.pdf.json
+PMC5831005_00004.pdf.json
+PMC5836937_00012.pdf.json
+PMC5837535_00011.pdf.json
+PMC5852850_00002.pdf.json
+PMC5857521_00005.pdf.json
+PMC5862359_00009.pdf.json
+PMC5862938_00012.pdf.json
+PMC5868198_00009.pdf.json
+PMC5869052_00002.pdf.json
+PMC5870021_00002.pdf.json
+PMC5876260_00003.pdf.json
+PMC5884891_00006.pdf.json
+PMC5886321_00001.pdf.json
+PMC5888158_00008.pdf.json
+PMC5889413_00006.pdf.json
+PMC5892792_00003.pdf.json
+PMC5899879_00001.pdf.json
+PMC5901074_00010.pdf.json
+PMC5904244_00003.pdf.json
+PMC5904494_00010.pdf.json
+PMC5904816_00002.pdf.json
+PMC5905643_00008.pdf.json
+PMC5905643_00010.pdf.json
+PMC5918525_00004.pdf.json
+PMC5927329_00003.pdf.json
+PMC5928179_00007.pdf.json
+PMC5938086_00002.pdf.json
+PMC5941640_00002.pdf.json
+PMC5945729_00006.pdf.json
+PMC5953974_00017.pdf.json
+PMC5954439_00053.pdf.json
+PMC5956568_00006.pdf.json
+PMC5962903_00010.pdf.json
+PMC5963436_00022.pdf.json
+PMC5983223_00011.pdf.json
+PMC5984384_00001.pdf.json
+PMC5985910_00006.pdf.json
+PMC5989473_00008.pdf.json
+PMC5992819_00005.pdf.json
+PMC5993995_00004.pdf.json
+PMC6000855_00002.pdf.json
+PMC6001665_00001.pdf.json
+PMC6001665_00018.pdf.json
+PMC6001670_00008.pdf.json
+PMC6004911_00008.pdf.json
+PMC6008661_00002.pdf.json
+PMC6015221_00001.pdf.json
+PMC6015615_00004.pdf.json
+PMC6016989_00001.pdf.json
+PMC6019963_00006.pdf.json
+PMC6020944_00005.pdf.json
+PMC6026585_00008.pdf.json
+PMC6027949_00005.pdf.json
+PMC6027949_00007.pdf.json
+PMC6028026_00018.pdf.json
+PMC6038490_00002.pdf.json
+PMC6044232_00005.pdf.json
+PMC6044308_00008.pdf.json
+PMC6046142_00001.pdf.json
+PMC6049891_00005.pdf.json
+PMC6056267_00019.pdf.json
+PMC6060225_00003.pdf.json
+PMC6060225_00015.pdf.json
+PMC6067826_00002.pdf.json
+PMC6070128_00004.pdf.json
+PMC6070582_00181.pdf.json
+PMC6071426_00041.pdf.json
+PMC6071676_00021.pdf.json
+PMC6077617_00001.pdf.json
+PMC6079418_00001.pdf.json
+PMC6080908_00009.pdf.json
+PMC6093422_00002.pdf.json
+PMC6101101_00006.pdf.json
+PMC6103631_00009.pdf.json
+PMC6104249_00004.pdf.json
+2025-11-06 18:26:43.159506
 DATASET INFO:
-count row: 1000
-first: dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
-	 A:torch.Size([77, 77])
-	 nodes_feature:torch.Size([77, 15])
-	 edges_feature:torch.Size([75, 4])
-	 true_edges:torch.Size([75])
-end:dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
-	 A:torch.Size([111, 111])
-	 nodes_feature:torch.Size([111, 15])
-	 edges_feature:torch.Size([109, 4])
-	 true_edges:torch.Size([109])
+count row: 9305
+first: dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'true_nodes', 'sp_A'])
+	 A:torch.Size([98, 98])
+	 nodes_feature:torch.Size([98, 15])
+	 edges_feature:torch.Size([140, 4])
+	 true_edges:torch.Size([140])
+end:dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'true_nodes', 'sp_A'])
+	 A:torch.Size([40, 40])
+	 nodes_feature:torch.Size([40, 15])
+	 edges_feature:torch.Size([39, 4])
+	 true_edges:torch.Size([39])
 
 node_featch:	15
 edge_featch:	4
 epochs:	20
 batch_size:	50
 learning_rate:	0.05
-Tag:	[{'in': -1, 'size': 64, 'out': 64, 'k': 3}, {'in': 64, 'size': 32, 'out': 32, 'k': 2}, {'in': 32, 'size': 16, 'out': 16, 'k': 1}]
+Tag:	[{'in': -1, 'size': 256, 'out': 128, 'k': 3}, {'in': 128, 'size': 64, 'out': 32, 'k': 2}, {'in': 32, 'size': 16, 'out': 8, 'k': 1}]
 NodeLinear:	[-1, 32, 16]
+NodeLinearClassifier:	[8]
 EdgeLinear:	[32, 16, 8]
+NodeClasses:	5
 batchNormNode:	True
 batchNormEdge:	True
 seg_k:	0.5
-loss_params:	{'edge_imbalance': 6.31, 'edge_coef': 1}
+loss_params:	{'publaynet_imbalance': [0.5, 0.31, 0.24, 0.14, 0.28], 'edge_imbalance': 1.87, 'edge_coef': 1, 'node_coef': 0.25}
 sigmoidEdge:	False
-EPOCH #0	 0.91616816 (VAL: 0.65704278)
-EPOCH #1	 0.66276113 (VAL: 0.60662838)
-EPOCH #2	 0.56677723 (VAL: 0.57255385)
-2025-11-01 18:23:29.830715
+EPOCH #0	 0.58478630 (VAL: 0.54253595)
+EPOCH #1	 0.53015418 (VAL: 0.53016397)
+EPOCH #2	 0.51802687 (VAL: 0.52623141)
+EPOCH #3	 0.51138511 (VAL: 0.51670903)
+EPOCH #4	 0.50795551 (VAL: 0.51046266)
+EPOCH #5	 0.50336944 (VAL: 0.50882028)
+2025-11-06 18:42:45.681553
 DATASET INFO:
-count row: 1000
-first: dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
-	 A:torch.Size([77, 77])
-	 nodes_feature:torch.Size([77, 15])
-	 edges_feature:torch.Size([75, 4])
-	 true_edges:torch.Size([75])
-end:dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
-	 A:torch.Size([111, 111])
-	 nodes_feature:torch.Size([111, 15])
-	 edges_feature:torch.Size([109, 4])
-	 true_edges:torch.Size([109])
+count row: 9305
+first: dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'true_nodes', 'sp_A'])
+	 A:torch.Size([98, 98])
+	 nodes_feature:torch.Size([98, 15])
+	 edges_feature:torch.Size([140, 4])
+	 true_edges:torch.Size([140])
+end:dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'true_nodes', 'sp_A'])
+	 A:torch.Size([40, 40])
+	 nodes_feature:torch.Size([40, 15])
+	 edges_feature:torch.Size([39, 4])
+	 true_edges:torch.Size([39])
 
 node_featch:	15
 edge_featch:	4
 epochs:	20
 batch_size:	50
 learning_rate:	0.05
-Tag:	[{'in': 15, 'size': 64, 'out': 64, 'k': 3}, {'in': 64, 'size': 32, 'out': 32, 'k': 2}, {'in': 32, 'size': 16, 'out': 16, 'k': 1}]
-NodeLinear:	[31, 32, 16]
-EdgeLinear:	[32, 16, 8]
+Tag:	[{'in': -1, 'size': 128, 'out': 64, 'k': 3}, {'in': 64, 'size': 64, 'out': 32, 'k': 2}, {'in': 32, 'size': 32, 'out': 16, 'k': 1}]
+NodeLinear:	[-1, 16]
+NodeLinearClassifier:	[8]
+EdgeLinear:	[32, 8]
+NodeClasses:	5
 batchNormNode:	True
 batchNormEdge:	True
 seg_k:	0.5
-loss_params:	{'edge_imbalance': 6.31, 'edge_coef': 1}
+loss_params:	{'publaynet_imbalance': [0.035, 0.107, 0.428, 0.214, 0.214], 'edge_imbalance': 1.87, 'edge_coef': 1, 'node_coef': 0.25}
 sigmoidEdge:	False
-EPOCH #0	 0.89930853 (VAL: 1.04379140)
-EPOCH #1	 0.71307216 (VAL: 0.95212824)
-EPOCH #2	 0.63075209 (VAL: 0.76650271)
-EPOCH #3	 0.55926367 (VAL: 0.78225442)
-EPOCH #4	 0.54013166 (VAL: 0.80899105)
-EPOCH #5	 0.53049439 (VAL: 0.82070882)
-EPOCH #6	 0.51653948 (VAL: 0.78992699)
-EPOCH #7	 0.50155822 (VAL: 0.78324120)
-EPOCH #8	 0.48950914 (VAL: 0.76563191)
-EPOCH #9	 0.47960113 (VAL: 0.84027926)
-EPOCH #10	 0.47618938 (VAL: 0.91464515)
-EPOCH #11	 0.48205191 (VAL: 0.89934213)
-EPOCH #12	 0.48559562 (VAL: 0.93213015)
-EPOCH #13	 0.47241763 (VAL: 0.92257667)
-EPOCH #14	 0.46224564 (VAL: 0.88452625)
-EPOCH #15	 0.45917079 (VAL: 0.94312250)
-EPOCH #16	 0.45385279 (VAL: 1.09788627)
-EPOCH #17	 0.45529320 (VAL: 1.10042459)
-EPOCH #18	 0.46528025 (VAL: 1.11369409)
-EPOCH #19	 0.48278855 (VAL: 0.89064200)
-Время обучения: 55.55 сек
-2025-11-05 12:47:17.596636
-DATASET INFO:
-count row: 1000
-first: dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
-	 A:torch.Size([77, 77])
-	 nodes_feature:torch.Size([77, 15])
-	 edges_feature:torch.Size([105, 4])
-	 true_edges:torch.Size([105])
-end:dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
-	 A:torch.Size([111, 111])
-	 nodes_feature:torch.Size([111, 15])
-	 edges_feature:torch.Size([155, 4])
-	 true_edges:torch.Size([155])
-
-node_featch:	15
-edge_featch:	4
-epochs:	20
-batch_size:	50
-learning_rate:	0.05
-Tag:	[{'in': -1, 'size': 64, 'out': 64, 'k': 3}, {'in': 64, 'size': 32, 'out': 32, 'k': 2}, {'in': 32, 'size': 16, 'out': 16, 'k': 1}]
-NodeLinear:	[-1, 32, 16]
-EdgeLinear:	[32, 16, 8]
-batchNormNode:	True
-batchNormEdge:	True
-seg_k:	0.5
-loss_params:	{'edge_imbalance': 1.87, 'edge_coef': 1}
-sigmoidEdge:	False
-EPOCH #0	 0.62836196 (VAL: 0.47785415)
-EPOCH #1	 0.44932697 (VAL: 0.42745754)
-EPOCH #2	 0.40896595 (VAL: 0.39884893)
-EPOCH #3	 0.38329590 (VAL: 0.38405615)
-EPOCH #4	 0.36874835 (VAL: 0.37912196)
-EPOCH #5	 0.35914446 (VAL: 0.37265143)
-EPOCH #6	 0.35067333 (VAL: 0.37718014)
-EPOCH #7	 0.34833634 (VAL: 0.37218396)
-EPOCH #8	 0.36512043 (VAL: 0.39908723)
-EPOCH #9	 0.36911281 (VAL: 0.38272194)
-EPOCH #10	 0.35125441 (VAL: 0.37077386)
-EPOCH #11	 0.34260607 (VAL: 0.36838571)
-EPOCH #12	 0.33692392 (VAL: 0.37702033)
-EPOCH #13	 0.33248951 (VAL: 0.37311472)
-EPOCH #14	 0.32975934 (VAL: 0.38725853)
-EPOCH #15	 0.33110954 (VAL: 0.37189565)
-EPOCH #16	 0.32821730 (VAL: 0.37053494)
-EPOCH #17	 0.32830369 (VAL: 0.37112672)
-EPOCH #18	 0.32184542 (VAL: 0.37943056)
-EPOCH #19	 0.32771296 (VAL: 0.38703816)
-Время обучения: 60.45 сек
-2025-11-05 13:35:52.910952
-DATASET INFO:
-count row: 1000
-first: dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
-	 A:torch.Size([77, 77])
-	 nodes_feature:torch.Size([77, 15])
-	 edges_feature:torch.Size([105, 4])
-	 true_edges:torch.Size([105])
-end:dict_keys(['N', 'X', 'Y', 'inds', 'true_edges', 'sp_A'])
-	 A:torch.Size([111, 111])
-	 nodes_feature:torch.Size([111, 15])
-	 edges_feature:torch.Size([155, 4])
-	 true_edges:torch.Size([155])
-
-node_featch:	15
-edge_featch:	4
-epochs:	20
-batch_size:	50
-learning_rate:	0.05
-Tag:	[{'in': -1, 'size': 64, 'out': 64, 'k': 3}, {'in': 64, 'size': 32, 'out': 32, 'k': 2}, {'in': 32, 'size': 16, 'out': 16, 'k': 1}]
-NodeLinear:	[-1, 32, 16]
-EdgeLinear:	[32, 16, 8]
-batchNormNode:	True
-batchNormEdge:	True
-seg_k:	0.5
-loss_params:	{'edge_imbalance': 1.87, 'edge_coef': 1}
-sigmoidEdge:	False
-EPOCH #0	 0.61752462 (VAL: 0.44825925)
-EPOCH #1	 0.44810364 (VAL: 0.40237413)
-EPOCH #2	 0.40718497 (VAL: 0.38435012)
-EPOCH #3	 0.38840130 (VAL: 0.37508148)
-EPOCH #4	 0.37330119 (VAL: 0.36938728)
-EPOCH #5	 0.36407134 (VAL: 0.36551074)
-EPOCH #6	 0.35954468 (VAL: 0.36432234)
-EPOCH #7	 0.34892465 (VAL: 0.36306747)
-EPOCH #8	 0.34069450 (VAL: 0.35374106)
-EPOCH #9	 0.33704174 (VAL: 0.35238521)
-EPOCH #10	 0.33986760 (VAL: 0.35393176)
-EPOCH #11	 0.32900814 (VAL: 0.35042316)
-EPOCH #12	 0.32747203 (VAL: 0.34857508)
-EPOCH #13	 0.32574783 (VAL: 0.34821642)
-EPOCH #14	 0.32275819 (VAL: 0.35686632)
-EPOCH #15	 0.32378032 (VAL: 0.35632698)
-EPOCH #16	 0.32147834 (VAL: 0.35289373)
-EPOCH #17	 0.31707098 (VAL: 0.35179926)
-EPOCH #18	 0.31616504 (VAL: 0.35608137)
-EPOCH #19	 0.31741924 (VAL: 0.36084732)
-Время обучения: 62.76 сек
+EPOCH #0	 0.49915706 (VAL: 0.46525817)
+EPOCH #1	 0.44659563 (VAL: 0.44017034)
+EPOCH #2	 0.43168715 (VAL: 0.43223762)
+EPOCH #3	 0.43118359 (VAL: 0.42801710)
+EPOCH #4	 0.42183982 (VAL: 0.42397841)
+EPOCH #5	 0.41863823 (VAL: 0.42212120)
+EPOCH #6	 0.41472909 (VAL: 0.41809589)
+EPOCH #7	 0.41406759 (VAL: 0.42055919)
+EPOCH #8	 0.41229879 (VAL: 0.42281935)
+EPOCH #9	 0.40873667 (VAL: 0.41988890)
+EPOCH #10	 0.40672770 (VAL: 0.41336369)
+EPOCH #11	 0.40654751 (VAL: 0.41535253)
+EPOCH #12	 0.40530343 (VAL: 0.41778381)
+EPOCH #13	 0.40400826 (VAL: 0.41395331)
+EPOCH #14	 0.40302702 (VAL: 0.41740819)
+EPOCH #15	 0.40055605 (VAL: 0.41146173)
+EPOCH #16	 0.40120874 (VAL: 0.41685693)
+EPOCH #17	 0.39847853 (VAL: 0.41262609)
+EPOCH #18	 0.39530320 (VAL: 0.41254476)
+EPOCH #19	 0.39518115 (VAL: 0.41330878)
+Время обучения: 672.29 сек
