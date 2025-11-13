@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 
-# log.txt
-# error_list_file.txt
-# rez_test_*
-# row2region_GLAM_tmp*
+log.txt
+error_list_file.txt
+rez_test_*
+row2region_GLAM_tmp*
